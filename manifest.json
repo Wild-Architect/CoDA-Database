@@ -1,0 +1,568 @@
+{
+    "schemaVersion":  1,
+    "latestVersion":  "2026.08.08",
+    "databaseDate":  "2026-08-08",
+    "generatedAt":  "2026-08-08T23:59:35.9869238Z",
+    "fullPackage":  {
+                        "version":  "2026.08.08",
+                        "file":  "CoDA-full-2026.08.08.zip",
+                        "url":  "https://github.com/Wild-Architect/CoDA-Database/releases/download/db-2026.08.08/CoDA-full-2026.08.08.zip",
+                        "size":  161108965,
+                        "sha256":  "af129f292c8ea62c3f0d405b011e8d9ccf568cf6cf2cd0ec7108f3eddbc19646"
+                    },
+    "updates":  [
+
+                ],
+    "files":  [
+                  {
+                      "path":  "building_codes/1.pdf",
+                      "size":  472534,
+                      "sha256":  "73ec109878fa7f6a1ac286edb3d7f3aa9401d3b28c4947e58f17b6b3970a19d2"
+                  },
+                  {
+                      "path":  "building_codes/10.pdf",
+                      "size":  386662,
+                      "sha256":  "bbfbe16bf59fa8fb6adde7447f2309e57e3b9babe73e6aa09166c463dd20aabf"
+                  },
+                  {
+                      "path":  "building_codes/100.pdf",
+                      "size":  581067,
+                      "sha256":  "d4c9528fcd9e11944c6c7c3545aabd00ef6674bff4e6c5fdc8285a95d552c041"
+                  },
+                  {
+                      "path":  "building_codes/101.pdf",
+                      "size":  988983,
+                      "sha256":  "609dcfc9c3befdecbd1c6c716942d761985f2ade288b646bb6c99466aca87465"
+                  },
+                  {
+                      "path":  "building_codes/102.pdf",
+                      "size":  2867294,
+                      "sha256":  "7390f1f79d480df3fc02009652bf01b53b25a82b0621dceaff76913b5e2f5e19"
+                  },
+                  {
+                      "path":  "building_codes/103.pdf",
+                      "size":  1242633,
+                      "sha256":  "41b1a94cd8e22e02cd8ed02db4f942e912d8120954f38056d4b7d93c5cf75912"
+                  },
+                  {
+                      "path":  "building_codes/104.pdf",
+                      "size":  3314890,
+                      "sha256":  "428dd224a862cb1fc53a31f90687c288f7c473dd224410c1f27e35a3663a27d5"
+                  },
+                  {
+                      "path":  "building_codes/105.pdf",
+                      "size":  3465249,
+                      "sha256":  "04edeb2699939666602b9099f15b62108dea5137f777b686a57759ffe99a8f28"
+                  },
+                  {
+                      "path":  "building_codes/106.pdf",
+                      "size":  1959522,
+                      "sha256":  "ee4a37bdc0f1b9a5dd72f22de11d8691526eabadd681ed62f614d579e57b4e6e"
+                  },
+                  {
+                      "path":  "building_codes/107.pdf",
+                      "size":  6753149,
+                      "sha256":  "5decdb9953a37e60164aa9eda3417067ceec0ccb9c1f40f9ed239222a989796b"
+                  },
+                  {
+                      "path":  "building_codes/108.pdf",
+                      "size":  1529780,
+                      "sha256":  "5187b5879a6e4c04fc4768368f337e0085ecf71820a005e7e00bdf759067bc81"
+                  },
+                  {
+                      "path":  "building_codes/109.pdf",
+                      "size":  412567,
+                      "sha256":  "6937111ccb4f9474dc4d35dcee87ada6bd3bbec6495cd496e089c8a683e51753"
+                  },
+                  {
+                      "path":  "building_codes/11.pdf",
+                      "size":  1065492,
+                      "sha256":  "6995bc4e3466c267df07f48955d95da7cc4e32f4e371ceb29514b09dcfabf025"
+                  },
+                  {
+                      "path":  "building_codes/12.pdf",
+                      "size":  2351069,
+                      "sha256":  "acd4b05d2183ce319bb5f9c7c2533c12469e2af1f41028a39b833c2a33e3b152"
+                  },
+                  {
+                      "path":  "building_codes/13.pdf",
+                      "size":  670762,
+                      "sha256":  "bbac2df734a5c02899a1732296cc2d04cbc8fc6843562a2f03c3600cf69ec1b5"
+                  },
+                  {
+                      "path":  "building_codes/14.pdf",
+                      "size":  393460,
+                      "sha256":  "72569dff638e82cc5fee5e8d6a3f5f66e2e8c595e894b651e6c567913beff6c5"
+                  },
+                  {
+                      "path":  "building_codes/15.pdf",
+                      "size":  651372,
+                      "sha256":  "4df26e39716ec9d766f5d9d821856dbe996438a93de8a958ac1990d3b96bc5a0"
+                  },
+                  {
+                      "path":  "building_codes/16.pdf",
+                      "size":  933693,
+                      "sha256":  "ce9932c27697468ba11ef344584bf4222544ea75fa8888e5c10abbb8af4ff7b7"
+                  },
+                  {
+                      "path":  "building_codes/17.pdf",
+                      "size":  526203,
+                      "sha256":  "958476ca0eae04560e3c2fe3ffc0263b6b295b02f2c8c9ff526cc08cd65664c0"
+                  },
+                  {
+                      "path":  "building_codes/18.pdf",
+                      "size":  4268938,
+                      "sha256":  "22016ed579301a71fa9afbf14c6819b16dfe3bab82629aa8b0f7720e8e18d638"
+                  },
+                  {
+                      "path":  "building_codes/19.pdf",
+                      "size":  870716,
+                      "sha256":  "7775fdbc4840e945258ea32bf5d8c60b00318991d9ee36bd5899cde0d9589d67"
+                  },
+                  {
+                      "path":  "building_codes/2.pdf",
+                      "size":  679687,
+                      "sha256":  "8ee26cb5abc187cf298bcb1d924c09287a209caae5ccabccfc0c244c06614e5f"
+                  },
+                  {
+                      "path":  "building_codes/20.pdf",
+                      "size":  682512,
+                      "sha256":  "10af22217440a3a352d4ef109808abef164b265d082c02307b6bd52f9c06db64"
+                  },
+                  {
+                      "path":  "building_codes/21.pdf",
+                      "size":  6658728,
+                      "sha256":  "b58f086f1c6f83ab14db49f4e2e8dee3615d3799b3283e77b89f7dcef16aaee8"
+                  },
+                  {
+                      "path":  "building_codes/22.pdf",
+                      "size":  2344064,
+                      "sha256":  "e1a93d54e68a813c69d3e5fdeb4d06f6a1715d2b79dfc7828c3ee4bd46ab89ba"
+                  },
+                  {
+                      "path":  "building_codes/23.pdf",
+                      "size":  518282,
+                      "sha256":  "dbc36e2a59ddd6e420edf056e8b4a7d8c5a9326ff4c1afb9c7f7124dd6cfa776"
+                  },
+                  {
+                      "path":  "building_codes/24.pdf",
+                      "size":  1139551,
+                      "sha256":  "97b93180c01c4d9cb21c1d2fce75570294b8fdf08e80a89139f0a9b538611f98"
+                  },
+                  {
+                      "path":  "building_codes/25.pdf",
+                      "size":  529836,
+                      "sha256":  "f9b408f58501c7040babc6489175f464dfe07975dfda23f3587944189664481e"
+                  },
+                  {
+                      "path":  "building_codes/26.pdf",
+                      "size":  1076384,
+                      "sha256":  "76b0cd4ce7bcbc41bbbd53ed0229c7a8fc326949b7f5ab58850ae3dee696414c"
+                  },
+                  {
+                      "path":  "building_codes/27.pdf",
+                      "size":  3060413,
+                      "sha256":  "236dd850e01c9e8eeabee5b969db8f621c0ba785a0007058f278c5439a586b3a"
+                  },
+                  {
+                      "path":  "building_codes/28.pdf",
+                      "size":  571659,
+                      "sha256":  "55c8fe77acf8cc6726ebdfcf3f7a632473e0d31f7a6efffb2a1e5d4fb3194dc6"
+                  },
+                  {
+                      "path":  "building_codes/29.pdf",
+                      "size":  356019,
+                      "sha256":  "d6bd3823489991da9a2e8501df7476a0febc5dfa3a95563d28400fe350dfe2ee"
+                  },
+                  {
+                      "path":  "building_codes/3.pdf",
+                      "size":  1021906,
+                      "sha256":  "94e9d23acd2579bfc303f0ffbf2c1489ee38b2684c201b5e5c240d776413a567"
+                  },
+                  {
+                      "path":  "building_codes/30.pdf",
+                      "size":  1209046,
+                      "sha256":  "30d1261c323f41b7bd998246a1d629562c169fade3a2dc045cc353c8712dd88b"
+                  },
+                  {
+                      "path":  "building_codes/31.pdf",
+                      "size":  418077,
+                      "sha256":  "83f4d8613b299bc11f2cf7cedfb5b8d102f01e4cfad0961460c12c6a1cfa24bb"
+                  },
+                  {
+                      "path":  "building_codes/32.pdf",
+                      "size":  505116,
+                      "sha256":  "ecb169b2baf8f2d8079251359cbeddb8eaddffc808ba67ac6d3dd0b25e6f7324"
+                  },
+                  {
+                      "path":  "building_codes/33.pdf",
+                      "size":  605313,
+                      "sha256":  "53ea9c1fb08aac230abc01e5b57fe01a2a6925b547ea23ab782bcd6177616011"
+                  },
+                  {
+                      "path":  "building_codes/34.pdf",
+                      "size":  409372,
+                      "sha256":  "fbb05032cb376db784fab8b22eed98cc31667a1b7d73ae29d16d137ea1f412f5"
+                  },
+                  {
+                      "path":  "building_codes/35.pdf",
+                      "size":  858298,
+                      "sha256":  "a72dd3d419480a1f775909e82ef8bc7cc4e33080879f2243798db0d6baf2e1b6"
+                  },
+                  {
+                      "path":  "building_codes/36.pdf",
+                      "size":  555294,
+                      "sha256":  "fa528de574ca5023dfde85fb7fbb0b863cbd965bc2d9b99e4c2c5c39240d7c00"
+                  },
+                  {
+                      "path":  "building_codes/37.pdf",
+                      "size":  1321542,
+                      "sha256":  "3694b37ba1214550f9271117ce78b01c1056bbbe2d070fdcf5ee73dbf63b270d"
+                  },
+                  {
+                      "path":  "building_codes/38.pdf",
+                      "size":  2723290,
+                      "sha256":  "6274c2c0943fb080beba24e38db2bc14a40de63c564e7fc10f0e879bbb33c73f"
+                  },
+                  {
+                      "path":  "building_codes/39.pdf",
+                      "size":  1864360,
+                      "sha256":  "96b8cf0e79365949a99bf2a2fa78434968b7b74f11c1706433a7725395218b2d"
+                  },
+                  {
+                      "path":  "building_codes/4.pdf",
+                      "size":  743911,
+                      "sha256":  "67ddcd8e4728432616f7e7dcb6d7da0a5c10cdf607d41be06750493fd0b5c7e6"
+                  },
+                  {
+                      "path":  "building_codes/40.pdf",
+                      "size":  595507,
+                      "sha256":  "67979eb9156d8317a7f492dd733d15366a9a507933b7263d40e308fd50b6067e"
+                  },
+                  {
+                      "path":  "building_codes/41.pdf",
+                      "size":  346965,
+                      "sha256":  "f3f27611533e46f50ec89d9d6d3768014cb6c78318c6ab23866911eb45f7a41c"
+                  },
+                  {
+                      "path":  "building_codes/42.pdf",
+                      "size":  363713,
+                      "sha256":  "4d46fbea94caf0c5fe0aab4e223bab0b0f52fa7edecb09e3e9cdd8501abbb554"
+                  },
+                  {
+                      "path":  "building_codes/43.pdf",
+                      "size":  1428026,
+                      "sha256":  "fa3ca16427164b8bea86065d8cc838b4deb91dee449fdb9fa64dcfce56971e2a"
+                  },
+                  {
+                      "path":  "building_codes/44.pdf",
+                      "size":  1241647,
+                      "sha256":  "ce725542677f7b4d551a9359723df41364ced8ac54f6a0e25a62365840bfa50c"
+                  },
+                  {
+                      "path":  "building_codes/45.pdf",
+                      "size":  3803769,
+                      "sha256":  "794228293fb037b3c5da9cf9287e259d4f3d0cca8d7362e96753733b095e0c40"
+                  },
+                  {
+                      "path":  "building_codes/46.pdf",
+                      "size":  579273,
+                      "sha256":  "ea52e16f0ec49df976dded0611737e426426b768698b6e3a023ccc3cb99b0bc1"
+                  },
+                  {
+                      "path":  "building_codes/47.pdf",
+                      "size":  1284840,
+                      "sha256":  "96fa05c7e0fe62fdc431cb5e6ac95e1e8f7c8c0735197abcb9f6b85ee9953e06"
+                  },
+                  {
+                      "path":  "building_codes/48.pdf",
+                      "size":  1168734,
+                      "sha256":  "63592998f01aa87743be84d31bdc9ffe06dd66063aae49f61c384e03767ee7f0"
+                  },
+                  {
+                      "path":  "building_codes/49.pdf",
+                      "size":  1881127,
+                      "sha256":  "9cc2dec7e70ee41b2591440d59ddaf550b3ffa4599b26387a30476955a624eff"
+                  },
+                  {
+                      "path":  "building_codes/5.pdf",
+                      "size":  591371,
+                      "sha256":  "4001c5121ab1bc778f69d94402824ec0019969dcc6c1cb1d96f71a590d086383"
+                  },
+                  {
+                      "path":  "building_codes/50.pdf",
+                      "size":  693581,
+                      "sha256":  "710d6d3f54adf326b44e4acfbd5f07037ff4662d4a9d1deab8403c58cf33d73c"
+                  },
+                  {
+                      "path":  "building_codes/51.pdf",
+                      "size":  351901,
+                      "sha256":  "e1da716ff5c6314ca7e5ddee2fc8f94a55cfae687e08916bd27b13523834d6ad"
+                  },
+                  {
+                      "path":  "building_codes/52.pdf",
+                      "size":  2886609,
+                      "sha256":  "d8af022af9d18f3bb36bec00f86a91ffa50542d4062ca0cf27b210b97feff1f0"
+                  },
+                  {
+                      "path":  "building_codes/53.pdf",
+                      "size":  301559,
+                      "sha256":  "f6f3f0d2160a7920e54190861712bc708b2e2f85e9e9796a74d4e5a362138d06"
+                  },
+                  {
+                      "path":  "building_codes/54.pdf",
+                      "size":  1002227,
+                      "sha256":  "03af269142c8c7d9857f083128264998986eb6d542c179a0f315627b86c745f5"
+                  },
+                  {
+                      "path":  "building_codes/55.pdf",
+                      "size":  3168470,
+                      "sha256":  "004b489ae6766b8e7f443d4e94c11a6ff04f49a6d1c4f7431bfaa77796b3ab8b"
+                  },
+                  {
+                      "path":  "building_codes/56.pdf",
+                      "size":  2247876,
+                      "sha256":  "5b12d8de98560211dd07410cd449df1cede834726aeb6a39acb579567300944b"
+                  },
+                  {
+                      "path":  "building_codes/57.pdf",
+                      "size":  929801,
+                      "sha256":  "b87f02d6026b6751005ee79189aca6a3923a0a0adb349f689e6c8d0bef5979cc"
+                  },
+                  {
+                      "path":  "building_codes/58.pdf",
+                      "size":  846869,
+                      "sha256":  "b7e10c8a195f631db18ac1531fe85a7837fb6b481d969816e65a201f03957d37"
+                  },
+                  {
+                      "path":  "building_codes/59.pdf",
+                      "size":  1126866,
+                      "sha256":  "9346942044f868cd192df36138a762310743fcffafb608226e58ef9e6baf4be3"
+                  },
+                  {
+                      "path":  "building_codes/6.pdf",
+                      "size":  813690,
+                      "sha256":  "06d2c15d9aef95e1e04fb63023b78530d3032eb41200905251a754c59debf800"
+                  },
+                  {
+                      "path":  "building_codes/60.pdf",
+                      "size":  3632231,
+                      "sha256":  "64da2195a874647830751df0d07f3526fb7c9285821821c0fafe7ea07ce48ece"
+                  },
+                  {
+                      "path":  "building_codes/61.pdf",
+                      "size":  884811,
+                      "sha256":  "212156d642950b2195ffc7b2f8de1dabf9cb4eaa22a29917b6a581efc88d1fcc"
+                  },
+                  {
+                      "path":  "building_codes/62.pdf",
+                      "size":  526358,
+                      "sha256":  "7d83c45dea19b07f84dcafe5ff47e8092627e1088cf5e90218671a33f17d351d"
+                  },
+                  {
+                      "path":  "building_codes/63.pdf",
+                      "size":  6703032,
+                      "sha256":  "9cca82708114cb21ef0d3b5f89734cc698ad96e8c6e58ea37583ca328547da5a"
+                  },
+                  {
+                      "path":  "building_codes/64.pdf",
+                      "size":  4334576,
+                      "sha256":  "24d51b0793d523cb77cd56726c3fd9dbabb1cdfd901a68b80d75e52d882325db"
+                  },
+                  {
+                      "path":  "building_codes/65.pdf",
+                      "size":  758222,
+                      "sha256":  "74257dd91dc96f5b4b6496f919d032453ab31fb34547cc00bd1c1d674640c8df"
+                  },
+                  {
+                      "path":  "building_codes/66.pdf",
+                      "size":  781112,
+                      "sha256":  "38655fe9bd7cb2fae127c2b41d8ff0088411372266ea44a909fff16b6735890d"
+                  },
+                  {
+                      "path":  "building_codes/67.pdf",
+                      "size":  912351,
+                      "sha256":  "4a803329e5bdbbb0c7ed7b88fcb26e53aa5a78c796fd32451a2a4aa160cd18d5"
+                  },
+                  {
+                      "path":  "building_codes/68.pdf",
+                      "size":  2468196,
+                      "sha256":  "4b65c59f427817082b28027f2878b3627c532246e78620ca124e78c1a9c677cb"
+                  },
+                  {
+                      "path":  "building_codes/69.pdf",
+                      "size":  2957281,
+                      "sha256":  "0b4af6feeb91bd54b55b13a422c77f0eeb80f7f311d8392b004a0a387a65b84a"
+                  },
+                  {
+                      "path":  "building_codes/7.pdf",
+                      "size":  636603,
+                      "sha256":  "4592edafaa8097d3b9305b7934d080256d649616a2741b6a5537a28606a665e3"
+                  },
+                  {
+                      "path":  "building_codes/70.pdf",
+                      "size":  624017,
+                      "sha256":  "f75b8b4e99fbc57359141f6b3cc1de0ae7dbfe55b0eaa16c1aaf36af601de43c"
+                  },
+                  {
+                      "path":  "building_codes/71.pdf",
+                      "size":  791328,
+                      "sha256":  "96a24165298431e8de796bf9fcc9b66cc6280a4e626b349d6926581d7a603142"
+                  },
+                  {
+                      "path":  "building_codes/72.pdf",
+                      "size":  3869393,
+                      "sha256":  "a2754cda3ee18e2bbc9e1e0d30beb5f3669bc5f0d7837ab24e408ebf8309a5c5"
+                  },
+                  {
+                      "path":  "building_codes/73.pdf",
+                      "size":  1748266,
+                      "sha256":  "575e39cd2927b06c574a9670aafff76998f8c1f561b4f6ce31b2c908819f9ae1"
+                  },
+                  {
+                      "path":  "building_codes/74.pdf",
+                      "size":  1399716,
+                      "sha256":  "27372e44365fc9d954ec886abdaa5fba46f80fefa9d9e8b326c2ab8a96d3c11b"
+                  },
+                  {
+                      "path":  "building_codes/75.pdf",
+                      "size":  3959381,
+                      "sha256":  "4672bd072a869c99064fcbecd764a285bdf2699b7a2af82cfaf6ebfb0b08f2d6"
+                  },
+                  {
+                      "path":  "building_codes/76.pdf",
+                      "size":  1297674,
+                      "sha256":  "e6dd05725d58f710125be8cebb96241e4d42157cd678a7453042107d66187def"
+                  },
+                  {
+                      "path":  "building_codes/77.pdf",
+                      "size":  967808,
+                      "sha256":  "31db4559ef1f3ee7eb75f5fe81aec35d7e6923fab67519340d9e2a323a397c64"
+                  },
+                  {
+                      "path":  "building_codes/78.pdf",
+                      "size":  9108868,
+                      "sha256":  "9152a105c82f9546a591cce7b7dc1fa7960c868cd02355b2806f39ff85b91295"
+                  },
+                  {
+                      "path":  "building_codes/79.pdf",
+                      "size":  1026599,
+                      "sha256":  "bb682da45d3727ea2a31403a4400fc16c89ff37ba013c02cec508165a826b4f0"
+                  },
+                  {
+                      "path":  "building_codes/8.pdf",
+                      "size":  291232,
+                      "sha256":  "a3ee7dd6d7176beda4a8d6dd869ce448dc63fa8a70f3a23bf58bf18d54a12a67"
+                  },
+                  {
+                      "path":  "building_codes/80.pdf",
+                      "size":  3629626,
+                      "sha256":  "bd01b6d868e0dd53dd71b34010634a45c387cce4b7b8007d96f9cb238b497b25"
+                  },
+                  {
+                      "path":  "building_codes/81.pdf",
+                      "size":  3058441,
+                      "sha256":  "f79cbf899fa6a344233346a69769ffd08f7ebc9f67fbe84c04989565ce6483b8"
+                  },
+                  {
+                      "path":  "building_codes/82.pdf",
+                      "size":  1240925,
+                      "sha256":  "e5c23bee2a4bad323e3e8b9f1bab03d7eca5db4d99486eb9df4aba313db7908f"
+                  },
+                  {
+                      "path":  "building_codes/83.pdf",
+                      "size":  696748,
+                      "sha256":  "0a97b239e56cf9a71f7949574613e2d293707b66c376d637c26c03de9c12a2d2"
+                  },
+                  {
+                      "path":  "building_codes/84.pdf",
+                      "size":  1085129,
+                      "sha256":  "acbadefcc5c09fbcb1bf2fd7637e30c92d9673c31d8fbc9970b23fbd15951965"
+                  },
+                  {
+                      "path":  "building_codes/85.pdf",
+                      "size":  618025,
+                      "sha256":  "4cbafcfb217ca60ff1a24c3859ce4e40be42874417af3e8a49b5a02c590bb974"
+                  },
+                  {
+                      "path":  "building_codes/86.pdf",
+                      "size":  2028657,
+                      "sha256":  "b29e21b885e466034379daaa5caeab1e9977dd7087240a37319db1e97c483510"
+                  },
+                  {
+                      "path":  "building_codes/87.pdf",
+                      "size":  4539739,
+                      "sha256":  "7ff37d8bb98bc693a8429532b84b7b33b801506ffc73d7e612fd34aac0546154"
+                  },
+                  {
+                      "path":  "building_codes/88.pdf",
+                      "size":  1836131,
+                      "sha256":  "0f6ae83b388467ea8ad1c70159bd2270fa35a73c7b60bb04153a2d74832424cd"
+                  },
+                  {
+                      "path":  "building_codes/89.pdf",
+                      "size":  1484184,
+                      "sha256":  "a057764f501c26555f264f26007843f9573ab6034b245f62dec95017b2f9627e"
+                  },
+                  {
+                      "path":  "building_codes/9.pdf",
+                      "size":  1111229,
+                      "sha256":  "77f1367dbbccc53a73ed0fbb12fdd540efb9d94ae26a94619c02cff9aeb8e09e"
+                  },
+                  {
+                      "path":  "building_codes/90.pdf",
+                      "size":  9320699,
+                      "sha256":  "77b126553a87774572185a6c630c104e73b581896a7639719ffae194c5f2bd2b"
+                  },
+                  {
+                      "path":  "building_codes/91.pdf",
+                      "size":  1223952,
+                      "sha256":  "e79a4d6b5f570d467a0d154b5bbe03e24e8a94bda31fdd1ba7860ef58085e43a"
+                  },
+                  {
+                      "path":  "building_codes/92.pdf",
+                      "size":  1654818,
+                      "sha256":  "614b455fd980f7e68bced429cea74a2ee0612e15fe066a1908388f7cbc64cf34"
+                  },
+                  {
+                      "path":  "building_codes/93.pdf",
+                      "size":  1899212,
+                      "sha256":  "e0a87fb958e4d306bf635523a4822c93b4cbdd178530feec512af6e76cd0e077"
+                  },
+                  {
+                      "path":  "building_codes/94.pdf",
+                      "size":  3362850,
+                      "sha256":  "e2569c5d800a94111d9cf86b168beea1e3cc3628915756d4c20e82c113e24304"
+                  },
+                  {
+                      "path":  "building_codes/95.pdf",
+                      "size":  2138907,
+                      "sha256":  "c18e23f468aa48c81489210533a5316f3dabdf7210be098a884df0d9f5528417"
+                  },
+                  {
+                      "path":  "building_codes/96.pdf",
+                      "size":  3851924,
+                      "sha256":  "4f7a1200850117de8e635275ecaff669c9d78065847b99a93908b1add673c361"
+                  },
+                  {
+                      "path":  "building_codes/97.pdf",
+                      "size":  2425774,
+                      "sha256":  "768a4e4734d28c4db511b1c00f8d564b51d8e86feffc7355c2150abea6b68629"
+                  },
+                  {
+                      "path":  "building_codes/98.pdf",
+                      "size":  745200,
+                      "sha256":  "7c7d3aa550a6b4306a829c0e3c85d52dfbcfb8f15b425e083570c3ad1ff94065"
+                  },
+                  {
+                      "path":  "building_codes/99.pdf",
+                      "size":  709539,
+                      "sha256":  "27a5b54b9230ec0c9023167839b10efb2a728ff9b13b30256e8aba58248d81b8"
+                  },
+                  {
+                      "path":  "dbn_catalog.xlsx",
+                      "size":  15016,
+                      "sha256":  "521235fa09b11b4c1232096a06433df48ee45adfa601185a7843dccff4347483"
+                  }
+              ]
+}
