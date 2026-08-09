@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
-    "latestVersion":  "2026.08.08",
-    "databaseDate":  "2026-08-08",
-    "generatedAt":  "2026-08-08T23:59:35.9869238Z",
+    "latestVersion":  "2026.09.01",
+    "databaseDate":  "2026-08-09",
+    "generatedAt":  "2026-08-09T00:56:52.7325077Z",
     "fullPackage":  {
                         "version":  "2026.08.08",
                         "file":  "CoDA-full-2026.08.08.zip",
@@ -11,7 +11,16 @@
                         "sha256":  "af129f292c8ea62c3f0d405b011e8d9ccf568cf6cf2cd0ec7108f3eddbc19646"
                     },
     "updates":  [
-
+                    {
+                        "from":  "2026.08.08",
+                        "to":  "2026.09.01",
+                        "file":  "CoDA-update-2026.09.01.zip",
+                        "url":  "https://github.com/Wild-Architect/CoDA-Database/releases/download/db-2026.09.01/CoDA-update-2026.09.01.zip",
+                        "size":  752357,
+                        "sha256":  "eb81e43b6d25135b0c3c08b1d0fb1cd8433fc55baa783b9e469441cea783552b",
+                        "changedFiles":  2,
+                        "deletedFiles":  0
+                    }
                 ],
     "files":  [
                   {
@@ -78,6 +87,11 @@
                       "path":  "building_codes/11.pdf",
                       "size":  1065492,
                       "sha256":  "6995bc4e3466c267df07f48955d95da7cc4e32f4e371ceb29514b09dcfabf025"
+                  },
+                  {
+                      "path":  "building_codes/110.pdf",
+                      "size":  836908,
+                      "sha256":  "9aa5685538e5cc9d626e4b4832b4ae6a858964050c4148c615283ce6e1b55f9c"
                   },
                   {
                       "path":  "building_codes/12.pdf",
@@ -561,8 +575,8 @@
                   },
                   {
                       "path":  "dbn_catalog.xlsx",
-                      "size":  15016,
-                      "sha256":  "521235fa09b11b4c1232096a06433df48ee45adfa601185a7843dccff4347483"
+                      "size":  20234,
+                      "sha256":  "08e503a7b88b004eefb54b193593f93d1f6502c4819556273fc72cb276b4882d"
                   }
               ]
 }
