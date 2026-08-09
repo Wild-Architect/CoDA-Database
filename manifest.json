@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
-    "latestVersion":  "2026.09.01",
+    "latestVersion":  "2026.08.09.2",
     "databaseDate":  "2026-08-09",
-    "generatedAt":  "2026-08-09T00:56:52.7325077Z",
+    "generatedAt":  "2026-08-09T01:42:00.8003798Z",
     "fullPackage":  {
                         "version":  "2026.08.08",
                         "file":  "CoDA-full-2026.08.08.zip",
@@ -19,6 +19,16 @@
                         "size":  752357,
                         "sha256":  "eb81e43b6d25135b0c3c08b1d0fb1cd8433fc55baa783b9e469441cea783552b",
                         "changedFiles":  2,
+                        "deletedFiles":  0
+                    },
+                    {
+                        "from":  "2026.09.01",
+                        "to":  "2026.08.09.2",
+                        "file":  "CoDA-update-2026.08.09.2.zip",
+                        "url":  "https://github.com/Wild-Architect/CoDA-Database/releases/download/db-2026.08.09.2/CoDA-update-2026.08.09.2.zip",
+                        "size":  18024,
+                        "sha256":  "b87c2f6b133490424f032ceeaa9fa02d55378d5d98adb89dabbbb417c9d6080e",
+                        "changedFiles":  1,
                         "deletedFiles":  0
                     }
                 ],
@@ -575,8 +585,8 @@
                   },
                   {
                       "path":  "dbn_catalog.xlsx",
-                      "size":  20234,
-                      "sha256":  "08e503a7b88b004eefb54b193593f93d1f6502c4819556273fc72cb276b4882d"
+                      "size":  20681,
+                      "sha256":  "3a9117eabe3ac231cb21d0b5d28bc6d99a3381f4724e484949e25a2612c50b43"
                   }
               ]
 }
